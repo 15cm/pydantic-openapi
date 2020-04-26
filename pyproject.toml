@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pydantic_openapi_ng"
-version = "0.2.0"
+version = "0.2.1"
 description = "Generate OpenAPI schema from pydantic models"
 authors = ["Yury Blagoveshchenskiy <yurathestorm@gmail.com>", "Sinkerine <i@15cm.net>"]
 license = "GPL-3.0"
